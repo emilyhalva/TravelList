@@ -7,7 +7,8 @@ The Travel List App is designed to help travelers efficiently organize and manag
 ## Features
 
 - **Create Packing List:** Users can enter items they need to pack for their trip in the text input area.
-- **Specify Quantity:** Choose the quantity of each item using a drop-down menu ranging from 1 to 20.
+- **Specify Quantity:** When adding an item, users may choose the quantity of each item using a drop-down menu ranging from 1 to 20.
+- **Delete Item:** Deletes an item from the current packing list.
 - **Track Packed Items:** Mark items as packed by toggling a check mark.
 - **Sorting Options:**
   - Sort items alphabetically.
@@ -16,6 +17,17 @@ The Travel List App is designed to help travelers efficiently organize and manag
 - **Clear Packing List:** Clears current packing list.
 - **Packing Progress:** Displays the percentage of items that have been marked "packed".
   <br/>
+
+## Screenshots
+
+**Packing List**
+![Packing List App Screenshot](/public/PackingList.png)
+
+**List in Progress**
+![Packing List App Screenshot](/public/PackingListProgress.png)
+
+**Packing List Complete**
+![Packing List App Screenshot](/public/PackingListComplete.png)
 
 ## Technologies Used
 
