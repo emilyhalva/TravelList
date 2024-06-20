@@ -42,8 +42,6 @@ These learning objectives helped me deepen my understanding of React fundamental
 
 ## Installation and Setup
 
-Provide instructions on how to clone the repository and set up the project locally.
-
 ```bash
 # Clone the repository
 git clone https://github.com/emilyhalva/TravelList.git
