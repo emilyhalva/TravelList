@@ -1,5 +1,7 @@
 # Travel List
 
+### This project is a component of [The Ultimate React Course 2023: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/?couponCode=24T6MT62024) by [Jonas Schmedtmann](https://github.com/jonasschmedtmann). The website's design and structure were provided as part of the course curriculum, and I did not create the website from the ground up. The main objective of this project is to reinforce and implement the concepts covered throughout the course.
+
 ## Description
 
 The Travel List App is designed to help travelers efficiently organize and manage their packing lists for upcoming trips. Users can easily create a list of items they need to pack, specify the quantity of each item using a drop-down menu ranging from 1 to 20, and keep track of their packed items by toggling a check mark. Additionally, the app offers sorting options that allow users to filter their packing list alphabetically, by packed status, or by the order in which items were added.
@@ -49,8 +51,6 @@ During the development of this app, I achieved several learning objectives:
 - **Handling Form Input:** I gained experience in handling forms and actions, such as onSubmit events, within the React framework.
 
 These learning objectives helped me deepen my understanding of React fundamentals and improve my skills in building interactive and responsive web applications.
-
-<br/>
 
 ## Installation and Setup
 
